@@ -192,20 +192,21 @@ plt.show()
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/pavizhi/malaria-cell-recognition/assets/95067176/183440e9-7b46-4a76-af92-b480aecac292)
+![image](https://github.com/S-ABHISHEK-1905/malaria-cell-recognition/assets/66360846/b4361ecf-1a55-455b-b84f-50c75ca1d5a8)
+
 
 
 ### Classification Report
-![image](https://github.com/pavizhi/malaria-cell-recognition/assets/95067176/2904f613-e55c-48c4-b7ac-0a1f4cd6583b)
+![image](https://github.com/S-ABHISHEK-1905/malaria-cell-recognition/assets/66360846/3a1140bf-c9f5-40d7-9f95-9fb50906f1a9)
 
 
 ### Confusion Matrix
-![image](https://github.com/pavizhi/malaria-cell-recognition/assets/95067176/3dcec452-7c4f-4ebc-8d5e-10d7461a6ad5)
+![image](https://github.com/S-ABHISHEK-1905/malaria-cell-recognition/assets/66360846/0b4e44e2-5fba-4cb6-b94b-ff3749ea90e5)
+
 
 
 ### New Sample Data Prediction
-![image](https://github.com/pavizhi/malaria-cell-recognition/assets/95067176/b959338e-34cf-4b67-9b57-873ab884eb1a)
-
+![image](https://github.com/S-ABHISHEK-1905/malaria-cell-recognition/assets/66360846/7cd1937c-8a5f-437b-947c-534201373149)
 
 
 ## RESULT
